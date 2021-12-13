@@ -1,0 +1,7 @@
+name: MMOItemShrubsBetonQuest
+version: ${project.version}
+main: main.MMOItemShrubsBetonQuest
+api-version: 1.13
+prefix: MMOItem Shrubs BetonQuest
+depend: [BetonQuest, MMOItems]
+authors: [honnisha]
