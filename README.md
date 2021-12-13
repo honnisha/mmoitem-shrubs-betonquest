@@ -1,4 +1,5 @@
 # mmoitem-shrubs-betonquest
+This plugin uses two events from MMOItem Shrubs: `CollectShrubEvent` and `PlantShrubEvent` for bq objectives:
 
 ### Objectives:
 - `collect_shrub`
