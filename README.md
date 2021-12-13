@@ -1,4 +1,7 @@
 # mmoitem-shrubs-betonquest
+
+MMOItem Shrubs: https://www.spigotmc.org/resources/mmoitem-shrubs.82282/
+
 This plugin uses two events from MMOItem Shrubs: `CollectShrubEvent` and `PlantShrubEvent` for bq objectives:
 
 ### Objectives:
