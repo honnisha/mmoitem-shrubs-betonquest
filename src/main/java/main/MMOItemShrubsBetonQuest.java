@@ -14,7 +14,7 @@ public final class MMOItemShrubsBetonQuest extends JavaPlugin {
     public void onEnable() {
         instance = this;
         BetonQuest bq = (BetonQuest) this.getServer().getPluginManager().getPlugin("BetonQuest");
-        Objects.requireNonNull(bq, "BetonQuest plugin not found");
+        Objects.requireNonNull(bq, "BetonQuest plugin is not found");
 
         bq.registerObjectives("collect_shrub", CollectShrubObjective.class);
         getLogger().info("collect_shrub objective loaded");
